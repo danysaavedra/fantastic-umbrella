@@ -1,4 +1,3 @@
-header nav{
-    background-color: aqua;
-    background-attachment: inherit;
+header{
+    display: inline-block;
 }

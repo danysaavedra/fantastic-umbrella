@@ -1,0 +1,29 @@
+section{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    width: 700px;
+}
+h1{
+    font-size: 37px;
+    line-height: 46px;
+    font-family:  Tahoma,helvetica, sans-serif;
+    Color: #000000;
+}
+h2
+{
+    font-size: 25px;
+    line-height: 38px;
+    font-family:  Tahoma,helvetica, sans-serif;
+}
+.bajada{
+    color:#666;
+    
+}
+p{
+    color:#333;
+    line-height: 27px;
+   
+}
+img{
+    width: 74%;
+}
