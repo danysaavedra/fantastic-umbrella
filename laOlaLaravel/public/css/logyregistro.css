@@ -1,0 +1,82 @@
+.reg {
+  background-color: black;
+  background-image: url("../img/fondo-form.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  justify-content: center;
+  height: 100%;
+  text-align: center;
+  padding: 5%;
+  
+}
+.reg h2, .reg h4{
+  color: black;
+  margin-bottom: 0;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+
+.log {
+  background-color: black;
+  background-image: url("../img/fondo-banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  justify-content: center;
+  height: 100%;
+  text-align: center;
+  padding: 5%;
+}
+.log h2, .log h4{
+  color: black;
+  margin-bottom: 0;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+.form-group {
+  display: inline;
+  font-family: 'Quicksand', sans-serif;
+}
+input {
+	margin-bottom: 25px;
+}
+form button:hover {
+	background-color: #fff;
+	color: #000;
+}
+
+form.btn btn-outline-light {
+  padding: 10%;
+}
+
+.login {
+  max-width: 500px;
+  margin: auto;
+  text-align: left;
+}
+.login button {
+  margin-top: 10px;
+}
+.login .form-check {
+  margin-top: 20px;
+}
+.invalid-feedback {
+  margin-top: -17px;
+}
+
+div.col-md-8 {
+  margin: 0;
+}
+
+.btn-info {
+  text-transform: uppercase;
+  font-family: 'Quicksand', sans-serif;
+  letter-spacing: 1px;
+  font-weight: 500;
+  font-size: 14px;
+  padding: 10px 20px;
+  margin-top: 30px;
+}

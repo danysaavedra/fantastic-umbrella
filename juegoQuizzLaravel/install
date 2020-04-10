@@ -1,0 +1,18 @@
+installing
+
+1_composer install (create .env file)
+2_php artisan key:generate
+3_composer require laravel/telescope
+4_composer require laravel/socialite
+5_php artisan db:seed  /fakers en app
+6_vista administrador con valor 1 en columna "admin" de la tabla users.
+7_para probar logueo de facebook y google. 
+
+FACEBOOK_CLIENT_ID=
+FACEBOOK_CLIENT_SECRET=
+FACEBOOK_REDIRECT_URI=http://localhost:8000/login/callback/facebook
+    
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
+GOOGLE_REDIRECT=http://localhost:8000/login/callback/google
+
